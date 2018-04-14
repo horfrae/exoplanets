@@ -1,5 +1,7 @@
 function load() {
     var exo = document.getElementById("exo");
+    exo.width = exo.clientWidth;
+    exo.height = exo.clientHeight;
     var gl = exo.getContext("webgl");
     if (!gl) {
         document.querySelector("p").innerHTML =
