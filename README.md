@@ -1,2 +1,2 @@
-# exoplanets
-My ExoPlanets school project
+# Fjarplánetur
+Skólaverkefnið mitt um fjarplánetur
